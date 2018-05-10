@@ -1,4 +1,4 @@
-# 001 Signup
+# 001 Sign Up
 
 Prompt: Hint: Design a sign up page, modal, form, app screen, etc. (It's up to you!) Don't forget to share on Dribbble and/or Twitter when you're done.
 

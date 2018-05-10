@@ -1,10 +1,11 @@
-# 001 Signup
+# 002 Credit Card Checkout
 
-Prompt: Hint: Design a sign up page, modal, form, app screen, etc. (It's up to you!) Don't forget to share on Dribbble and/or Twitter when you're done.
+Prompt: Hint: Design a sign up page, modal, form, app screen, etc. (It's up to you!) Don't forget to share on Drib    bble and/or Twitter when you're done.
+
 
 # Explaination
 
-I used create react app, tailwind css and some blog posts to attempt to recreate the iotv signin
+I used create react app, tailwind css and some blog posts to attempt to build an iotv credit card form using strip
 
 Thanks to 
 
