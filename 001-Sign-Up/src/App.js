@@ -4,7 +4,7 @@ import './index.css'
 const App = () => (
   <div className="root001">
     <div className='container mx-auto h-full flex justify-center items-center'>
-      <div className='sm:w-full md:w-1/2 lg:w-1/3 xl:w-1/4'>
+      <div className='w-full m-2 max-w-xs sm:w-full md:w-1/2 lg:w-1/3 xl:w-1/4'>
         <h1 className='font-thin text-grey-darkest mb-6 text-center'>Create your iotv Account</h1>
         <div className='border-blue p-8 border-t-12 bg-white mb-6 rounded-lg shadow-lg'>
           <div className='mb-4'>
